@@ -1,0 +1,243 @@
+{
+  "questoes": [
+    {
+      "id": 1,
+      "ano": "2019",
+      "dia": "dia-2",
+      "cor": "AZUL",
+      "area": "MT",
+      "questao": 10,
+      "gabarito": "",
+      "imagem": "http://login.aridesa.com.br/vestibular/enem2018/questoes/CNT_Q92.gif"
+    },
+    {
+      "ano": "2019 ",
+      "dia": "dia-2",
+      "cor": "AZUL",
+      "area": "MT",
+      "questao": "2",
+      "gabarito": "A",
+      "imagem": "http://login.aridesa.com.br/vestibular/enem2018/questoes/CNT_Q92.gif",
+      "id": 2
+    },
+    {
+      "ano": "2019 ",
+      "dia": "dia-2",
+      "cor": "AZUL",
+      "area": "MT",
+      "questao": "2",
+      "gabarito": "A",
+      "imagem": "http://login.aridesa.com.br/vestibular/enem2018/questoes/CNT_Q92.gif",
+      "id": 3
+    },
+    {
+      "ano": "2019 ",
+      "dia": "dia-2",
+      "cor": "AZUL",
+      "area": "MT",
+      "questao": "2",
+      "gabarito": "A",
+      "imagem": "http://login.aridesa.com.br/vestibular/enem2018/questoes/CNT_Q92.gif",
+      "id": 4
+    },
+    {
+      "ano": "2019 ",
+      "dia": "dia-2",
+      "cor": "AZUL",
+      "area": "MT",
+      "questao": "2",
+      "gabarito": "A",
+      "imagem": "http://login.aridesa.com.br/vestibular/enem2018/questoes/CNT_Q92.gif",
+      "id": 5
+    },
+    {
+      "ano": "2019 ",
+      "dia": "dia-2",
+      "cor": "AZUL",
+      "area": "MT",
+      "questao": "3",
+      "gabarito": "A",
+      "imagem": "http://login.aridesa.com.br/vestibular/enem2018/questoes/CNT_Q92.gif",
+      "id": 6
+    },
+    {
+      "ano": "2019 ",
+      "dia": "dia-2",
+      "cor": "AZUL",
+      "area": "MT",
+      "questao": "4",
+      "gabarito": "A",
+      "imagem": "http://login.aridesa.com.br/vestibular/enem2018/questoes/CNT_Q92.gif",
+      "id": 7
+    },
+    {
+      "ano": "2019 ",
+      "dia": "dia-2",
+      "cor": "AZUL",
+      "area": "MT",
+      "questao": "5",
+      "gabarito": "A",
+      "imagem": "http://login.aridesa.com.br/vestibular/enem2018/questoes/CNT_Q92.gif",
+      "id": 8
+    },
+    {
+      "ano": "2019 ",
+      "dia": "dia-2",
+      "cor": "AZUL",
+      "area": "MT",
+      "questao": "6",
+      "gabarito": "A",
+      "imagem": "http://login.aridesa.com.br/vestibular/enem2018/questoes/CNT_Q92.gif",
+      "id": 9
+    },
+    {
+      "ano": "2019 ",
+      "dia": "dia-1",
+      "cor": "CINZA",
+      "area": "ING",
+      "questao": "3",
+      "gabarito": "B",
+      "imagem": "http://login.aridesa.com.br/vestibular/enem2018/questoes/CNT_Q92.gif",
+      "id": 10
+    },
+    {
+      "ano": "2019 ",
+      "dia": "dia-1",
+      "cor": "ROSA",
+      "area": "LCT",
+      "questao": "3",
+      "gabarito": "B",
+      "imagem": "http://login.aridesa.com.br/vestibular/enem2018/questoes/CNT_Q92.gif",
+      "id": 11
+    },
+    {
+      "ano": "2019 ",
+      "dia": "dia-1",
+      "cor": "ROSA",
+      "area": "LCT",
+      "questao": "4",
+      "gabarito": "C",
+      "imagem": "http://login.aridesa.com.br/vestibular/enem2018/questoes/CNT_Q92.gif",
+      "id": 12
+    },
+    {
+      "ano": "2019 ",
+      "dia": "dia-1",
+      "cor": "ROSA",
+      "area": "ING",
+      "questao": "1",
+      "gabarito": "C",
+      "imagem": "http://login.aridesa.com.br/vestibular/enem2018/questoes/CNT_Q92.gif",
+      "id": 13
+    },
+    {
+      "ano": "2019 ",
+      "dia": "dia-1",
+      "cor": "ROSA",
+      "area": "ING",
+      "questao": "2",
+      "gabarito": "D",
+      "imagem": "http://login.aridesa.com.br/vestibular/enem2018/questoes/CNT_Q92.gif",
+      "id": 14
+    },
+    {
+      "ano": "2019 ",
+      "dia": "dia-1",
+      "cor": "ROSA",
+      "area": "ING",
+      "questao": "2",
+      "gabarito": "B",
+      "imagem": "http://login.aridesa.com.br/vestibular/enem2018/questoes/CNT_Q92.gif",
+      "id": 15
+    },
+    {
+      "ano": "2019 ",
+      "dia": "dia-1",
+      "cor": "ROSA",
+      "area": "ING",
+      "questao": "3",
+      "gabarito": "D",
+      "imagem": "http://login.aridesa.com.br/vestibular/enem2018/questoes/CNT_Q92.gif",
+      "id": 16
+    },
+    {
+      "ano": "2019 ",
+      "dia": "dia-1",
+      "cor": "ROSA",
+      "area": "ING",
+      "questao": "4",
+      "gabarito": "E",
+      "imagem": "http://login.aridesa.com.br/vestibular/enem2018/questoes/CNT_Q92.gif",
+      "id": 17
+    },
+    {
+      "ano": "2019 ",
+      "dia": "dia-1",
+      "cor": "ROSA",
+      "area": "ING",
+      "questao": "5",
+      "gabarito": "A",
+      "imagem": "http://login.aridesa.com.br/vestibular/enem2018/questoes/CNT_Q92.gif",
+      "id": 18
+    },
+    {
+      "ano": "2019 ",
+      "dia": "dia-2",
+      "cor": "BRANCO",
+      "area": "MT",
+      "questao": "1",
+      "gabarito": "A",
+      "imagem": "http://login.aridesa.com.br/vestibular/enem2018/questoes/CNT_Q92.gif",
+      "id": 19
+    },
+    {
+      "ano": "2019 ",
+      "dia": "dia-1",
+      "cor": "CINZA",
+      "area": "ESP",
+      "questao": "2",
+      "gabarito": "B",
+      "imagem": "http://login.aridesa.com.br/vestibular/enem2018/questoes/CNT_Q92.gif",
+      "id": 20
+    },
+    {
+      "ano": "2019 ",
+      "dia": "dia-1",
+      "cor": "CINZA",
+      "area": "ING",
+      "questao": "3",
+      "gabarito": "B",
+      "imagem": "http://login.aridesa.com.br/vestibular/enem2018/questoes/CNT_Q92.gif",
+      "id": 21
+    },
+    {
+      "ano": "2019 ",
+      "dia": "dia-1",
+      "cor": "CINZA",
+      "area": "ING",
+      "questao": "4",
+      "gabarito": "B",
+      "imagem": "http://login.aridesa.com.br/vestibular/enem2018/questoes/CNT_Q92.gif",
+      "id": 22
+    },
+    {
+      "ano": "2019 ",
+      "dia": "dia-1",
+      "cor": "CINZA",
+      "questao": "5",
+      "gabarito": "B",
+      "imagem": "http://login.aridesa.com.br/vestibular/enem2018/questoes/CNT_Q92.gif",
+      "id": 23
+    },
+    {
+      "ano": "2019 ",
+      "dia": "dia-1",
+      "cor": "CINZA",
+      "questao": "5",
+      "gabarito": "B",
+      "imagem": "http://login.aridesa.com.br/vestibular/enem2018/questoes/CNT_Q92.gif",
+      "area": "ING",
+      "id": 24
+    }
+  ]
+}
